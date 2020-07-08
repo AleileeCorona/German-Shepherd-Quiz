@@ -45,7 +45,7 @@ const STORE = {
         answer:"D. Max von Stephanitz reached out to police departments, service workers, and German army officers to prevent a decline in demand for gernman shepherds. He advertised them as Intelligent, obedient and trainable."
       },
       {
-        quesion: "Question #5: During the war how did the Germans use these GSDs?",
+        question: "Question #5: During the war how did the Germans use these GSDs?",
 
         options: [
         "A. Hospice Dogs",
